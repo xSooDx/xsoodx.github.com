@@ -326,3 +326,149 @@ legend {
     color: inherit;
   }
 }
+
+
+// Custom ==================================================================
+
+$landing-zone-height: 85vh;
+$bgColor1: #212121;
+$bgColor2: #020727;
+$fieryColor: #ff5500;
+$spaceyColor: #8615ff;
+
+$spacerBg: '/assets/media/w_spacey.svg';
+
+$sectionColor: $spaceyColor;
+$bgColor: $bgColor2;
+
+
+
+
+body {
+  background-color: $bgColor;
+  width: 100vw;
+  overflow-x: hidden; /* Hide scrollbars */
+}
+
+.bg-navbar {
+  background-color: $black;
+  opacity: 0.5;
+}
+
+.video-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: $landing-zone-height;
+  overflow:hidden;
+}
+
+.video-container > video {
+  display: block;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: -2;
+}
+
+#landingReel {
+  background-color: $blue;
+}
+
+.main {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  top: $landing-zone-height;
+}
+
+.center {
+  align-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.proj-img {
+  width: 85%;
+  border-color: #fff;
+  border-width: 0px;
+  border-style: solid;
+  padding: 0;
+}
+
+.section-header {
+  // background-color: $sectionColor;
+  padding: 18px 18px 18px 18px;
+  margin: 18px 0 18px 0;
+}
+
+.section-header h4 {
+  margin: 0;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.section-header .col {
+  background-color: $sectionColor;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+.row {
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.proj-title {
+  font-size: 24px;
+  margin: 8px 2px 2px 6px;
+}
+
+.proj-list {
+  width: 90%;
+  margin:  auto;
+}
+
+.bio {
+  width: 90%;
+  margin: auto;
+}
+
+.spacer {
+  aspect-ratio: 1280/128;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.layer1{
+  background-image: url($spacerBg);
+}
+
+.invert{
+  transform: rotate(180deg);
+}
+
+@media screen and (max-aspect-ratio: 3/2) {
+  .video-container > video {
+      height: 100%;
+  }
+
+  .section-header h4 {
+    padding-top: 16px;
+    padding-bottom: 16px;
+  }
+}
+@media screen and (min-aspect-ratio: 3/2) {
+  .video-container > video {
+      width: 100%;
+  }
+}

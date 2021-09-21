@@ -3,39 +3,30 @@ layout: default
 ---
 
 <div>
+  <div class="video-container">
+    <video autoplay muted loop id="landingReel">
+      <source src="/assets/media/PortfolioReel_SparkVideo.mp4" type="video/mp4">
+    </video>
+  </div>
 
-  {%- if page.title -%}
-  <header>
-    <h1>{{ page.title }}</h1>
-  </header>
-  {%- endif -%}
+  <section class="main">
+    <div class="container-fluid">
+      <div class = "row bio">
+        <div class="col">
+          <h2>{{ page.title }}</h2>
+          <p> Work in progress</p>
+        </div>
+      </div>
+    
+      {% include projectSection.html title="Professional Projects" projList=site.data.professionalProjects %}
 
-  <section>
-    {{ content }}
+      {% include projectSection.html title="Personal Game Projects" projList=site.data.personalGameProjects1 %}
+      {% include projectSection.html projList=site.data.personalGameProjects2 %}
+
+      {% include projectSection.html title="Machine Learning Projects" projList=site.data.mlProjects %}
+
+      {% include projectSection.html title="Work Experience" projList=site.data.workX %}
+    </div>
   </section>
-
-  {%- if site.posts.size > 0 -%}
-    <p class="h4">{{ page.list_title | default: "Posts" }}</p>
-    <ul class="list-unstyled">
-      {%- for post in site.posts -%}
-      <li>
-        <span class="text-muted">
-          {%- assign date_format = "%b %-d, %Y" -%}
-          {{ post.date | date: date_format }}
-        </span>
-        <p class="h5">
-          <a href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </p>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-  {%- endif -%}
 
 </div>

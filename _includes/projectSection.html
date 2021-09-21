@@ -1,0 +1,14 @@
+{%- if include.title -%}
+<div class = "row center section-header">
+    <div class="spacer layer1"></div>
+    <div class="col">
+        <h4 class="">{{include.title}}</h4>
+    </div>
+    <div class="spacer layer1 invert"></div>
+</div>
+  {%- endif -%}
+<div class = "row center proj-list">
+    {% for proj in include.projList %}
+        {% include projectEntry.html var=proj %}
+    {% endfor %}
+</div>
