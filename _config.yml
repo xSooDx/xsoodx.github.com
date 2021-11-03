@@ -16,13 +16,11 @@
 title: Saurabh Sood
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  A Bootstrap 4 start up project for Jekyll and Github Pages
+  Programmer • Engineer • Game Developer • Gamer
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
-
-repository: "nicolas-van/bootstrap-4-github-pages"
 
 # Build settings
 plugins:
