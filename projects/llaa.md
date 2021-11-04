@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ship Jam: Unity ML-Agent Ship Combat"
+title: "Looks Like an Accident"
 ---
 
 Work in progress
