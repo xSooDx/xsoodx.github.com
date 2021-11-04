@@ -1,11 +1,14 @@
 - image: "/assets/media/gm_GTGPU.png"
   title: "Grand Theft GPU"
   description: ""
+  link: "/projects/gtgpu"
 
 - image: "/assets/media/gm_ps0.png"
   title: "Prison Station O"
   description: ""
+  link: "/projects/prisonStationO"
 
 - image: "/assets/media/gm_robro.png"
   title: "RoBro"
   description: ""
+  link: "/projects/roBro"

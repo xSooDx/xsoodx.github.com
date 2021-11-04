@@ -1,15 +1,19 @@
 - image: "/assets/media/ml_sj.png"
   title: "Ship Jam: Unity ML-Agent Ship Combat"
   description: ""
+  link: "/projects/shipJam"
 
 - image: "/assets/media/ml_dql.png"
   title: "Deep Q Learning for Space Invaders"
   description: ""
+  link: "/projects/dqsi"
 
 - image: "/assets/media/ml_thermSr.png"
   title: "Deep Learning Image Super Resolution for Thermal Images"
   description: ""
+  link: "/projects/thermalSR"
 
 - image: "/assets/media/ml_ra.png"
-  title: "Road Quality Analyis"
+  title: "Road Quality Analysis"
   description: ""
+  link: "/projects/roadAnalysis"

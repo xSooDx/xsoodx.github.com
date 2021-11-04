@@ -1,11 +1,14 @@
 - image: "/assets/media/gm_planetDef.png"
   title: "Planet Defense"
   description: ""
+  link: "/projects/planetDefense"
 
 - image: "/assets/media/gm_boxHunt.png"
   title: "Box Hunter"
   description: ""
+  link: "/projects/boxHunter"
 
 - image: "/assets/media/gm_BnA.png"
   title: "Broken & Alone"
   description: ""
+  link: "/projects/brokenAlone"
