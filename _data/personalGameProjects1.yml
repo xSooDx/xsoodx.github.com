@@ -1,11 +1,22 @@
 - image: "/assets/media/gm_GTGPU.png"
   title: "Grand Theft GPU"
   description: ""
+  link: "/projects/gtgpu"
 
 - image: "/assets/media/gm_ps0.png"
   title: "Prison Station O"
   description: ""
+  link: "/projects/prisonStationO"
 
-- image: "/assets/media/gm_robro.png"
-  title: "RoBro"
+- image: "/assets/media/gm_blockBounce.png"
+  title: "Block Bounce"
   description: ""
+  link: "/projects/blockBounce"
+
+- image: "/assets/media/gm_madMechs.png"
+  title: "Mad Mechs"
+  description: ""
+  link: "/projects/madMechs"
+
+
+

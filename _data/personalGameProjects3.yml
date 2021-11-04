@@ -1,0 +1,19 @@
+- image: "/assets/media/gm_debugio.png"
+  title: "Debug.io"
+  description: ""
+  link: "/projects/debugIo"
+
+- image: "/assets/media/gm_asteroidBelt.png"
+  title: "Debug.io"
+  description: ""
+  link: "/projects/asteroidBelt"
+
+- image: "/assets/media/gm_llaa.png"
+  title: "Looks Like an Accident"
+  description: ""
+  link: "/projects/llaa"
+
+- image: "/assets/media/gm_ricochet.png"
+  title: "Ricochet"
+  description: ""
+  link: "/projects/ricochet"
