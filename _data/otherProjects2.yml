@@ -1,0 +1,19 @@
+- image: "/assets/media/op_ssfs.png"
+  title: "SSFS: File System in User Space"
+  description: ""
+  link: ""
+
+- image: "/assets/media/op_blurKernel.jpg"
+  title: "Blur Kernel Estimation & Deconvolution Method Analysis"
+  description: ""
+  link: "/projects/cariocaClub"
+
+- image: "/assets/media/op_cellular.png"
+  title: "Cellular Life Simulation"
+  description: ""
+  link: ""
+
+- image: "/assets/media/op_chemHelper.png"
+  title: "Chemistry Study Helper"
+  description: ""
+  link: "/projects/cariocaClub"

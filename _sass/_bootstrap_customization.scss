@@ -400,14 +400,21 @@ body {
   text-align: center;
 }
 
+.proj-row {
+  text-align: center;
+  vertical-align: top;
+}
+
 .proj-img {
   width: 340px;
   
-  border-color: #fff;
-  border-width: 0px;
+  border-color: $gray-700;
+  border-width: 2px;
   border-style: solid;
+  border-radius: 16px;
   margin: auto;
   padding: 0;  
+  background-color: $black;
 }
 
 .post {
@@ -468,7 +475,7 @@ body {
 }
 
 .content {
-  width: 90%;
+  width: 80%;
   margin: auto;
 }
 
