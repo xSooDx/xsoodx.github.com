@@ -4,7 +4,7 @@
   link: "/projects/debugIo"
 
 - image: "/assets/media/gm_asteroidBelt.png"
-  title: "Debug.io"
+  title: "Asteroid Belt"
   description: ""
   link: "/projects/asteroidBelt"
 
@@ -13,7 +13,7 @@
   description: ""
   link: "/projects/llaa"
 
-- image: "/assets/media/gm_ricochet.png"
+- image: "/assets/media/gm_ricochet.jpg"
   title: "Ricochet"
   description: ""
   link: "/projects/ricochet"
