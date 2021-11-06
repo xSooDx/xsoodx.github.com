@@ -1,5 +1,5 @@
-- image: ""
-  title: "Converting Broken Laptop All-In-One PC"
+- image: "/assets/media/op_aioPC.jpg"
+  title: "Converting Broken Laptop to All-In-One PC"
   description: ""
   link: "/projects/"
 
@@ -8,7 +8,7 @@
   description: ""
   link: "/projects/3dPrinting"
 
-- image: ""
+- image: "/assets/media/op_recoBot.jpg"
   title: "Game Recommendation Chat Bot"
   description: ""
   link: "/projects/cariocaClub"
