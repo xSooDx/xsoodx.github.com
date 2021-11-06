@@ -1,12 +1,17 @@
 <div class="col-sm proj-entry">
-    {%- if include.var.link -%}
-        <a href="{{ include.var.link }}">
-    {%- else -%}
-        <a>
-    {%- endif -%}
-        <img class="proj-img" src={{ include.var.image }} />
-    </a>
-    <h5 class="proj-title" >{{ include.var.title }}</h5>
+    <div class="view overlay zoom proj-img-holder">
+        {%- if include.var.link -%}
+            <a href="{{ include.var.link }}">
+        {%- else -%}
+            <a>
+        {%- endif -%}
+            <img class="img-fluid proj-img" src={{ include.var.image }} />
+            <div class="mask flex-center rgba-black-strong">
+                <h5 class="proj-title" >{{ include.var.title }}</h5>
+            </div>
+        </a>
+    </div>
+    
     <p>
         {%- if include.var.description -%}
             {{ include.var.description }}

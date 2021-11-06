@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-navbar">
+<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-navbar">
   <div class="container-fluid">
     <a class="navbar-brand" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
@@ -8,15 +8,14 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav ml-auto">
-        {%- for path in page_paths -%}
-          {%- assign my_page = site.pages | where: "path", path | first -%}
-          {%- if my_page.title -%}
+      <ul class="navbar-nav mr-auto smooth-scroll">
+        {%- for hp in page_paths -%}
+          {%- if hp.name -%}
           <li class="nav-item">
-            <a class="nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+            <a class="nav-link" href="{{ hp.href }}">{{ hp.name | escape }}</a>
           </li>
           {%- endif -%}
-        {% endfor -%}
+        {%- endfor -%}
       </ul>
     </div>
   </div>
