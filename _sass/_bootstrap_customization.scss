@@ -415,6 +415,13 @@ body {
   margin: 8px 2px 2px 6px;
 }
 
+.proj-entry {
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  margin: auto;
+}
+
 .proj-entry .proj-title {
   margin-top: 24px;
   margin-bottom: 24px;
@@ -422,12 +429,15 @@ body {
 
 .proj-row {
   text-align: center;
+  align-items: center;
+  align-content: center;
   vertical-align: top;
+  margin: auto;
 }
 
 .proj-img-holder {
   align-content: center;
-  width: 340px;
+  width: 98%; //340px;
   border-color: $gray-700;
   border-width: 2px;
   border-style: solid;
@@ -438,12 +448,45 @@ body {
 }
 
 .proj-img {
-  width: 340px;
+  width: 100%;
   margin: auto;  
 }
 
+.page-icon {
+  width: 100%;
+  margin: auto;
+}
+
+.page-link-row {
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  vertical-align: top;
+  margin: auto;
+  padding-top: 24px;
+}
+
+.page-icon-holder {
+  width: 100px;
+  height: 100px;
+  padding: 16px;
+  margin: auto;
+}
+
 .post {
-  width: 75%;
+  width: 1000px;
+  padding: 32px;
+  margin: auto;
+  margin-top: 64px;
+  background-color: $gray-900;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 6px;
+  border-color: $gray-700;
+}
+
+.post .content {
+  width: 90%;
 }
 
 .section-header {
@@ -504,9 +547,22 @@ body {
   height: 48px;
 }
 
+.post .vert-img {
+  float: left;
+  width: 50%;
+}
+
 @media screen and (max-aspect-ratio: 3/2) {
   .video-container > video {
       height: 100%;
+  }
+
+  .post {
+     width: 100%;
+     padding: 16px 0  16px 0;
+  }
+  .content {
+    width: 100%;
   }
 
   .section-header h4 {

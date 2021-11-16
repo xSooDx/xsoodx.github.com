@@ -1,0 +1,19 @@
+- image: "/assets/media/itch-page-icon.svg"
+  title: "My Games"
+  link: "https://xsoodx.itch.io/"
+
+- image: "/assets/media/github-page-icon.png"
+  title: "Code Projects"
+  link: "https://github.com/xSooDx"
+
+- image: "/assets/media/ig-page-icon.png"
+  title: "Gaming Photography"
+  link: "https://www.instagram.com/soodplaysgames/"
+
+- image: "/assets/media/ln-page-icon.png"
+  title: "Professional Profile"
+  link: "https://www.linkedin.com/in/saurabhsood95"
+
+- image: "/assets/media/blog-page-icon.png"
+  title: "Coding Blog"
+  link: "https://saurabhsoodweb.wordpress.com/"
