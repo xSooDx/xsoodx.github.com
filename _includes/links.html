@@ -1,12 +1,12 @@
 <div class="row content page-link-row">
     {% for link in site.data.externalPages %}
         <div class="col">
-            <a href="{{ link.link }}">
-                <div class="view overlay zoom page-icon-holder">
+            <div class="view overlay zoom page-icon-holder">
+                <a href="{{ link.link }}">
                     <img class="img-fluid page-icon" src="{{ link.image }}" />
-                </div>
-                <h5>{{ link.title }}</h5>
-            </a>
+                </a>
+            </div>
+            <h5>{{ link.title }}</h5>
         </div>
     {% endfor %}
   </div>
