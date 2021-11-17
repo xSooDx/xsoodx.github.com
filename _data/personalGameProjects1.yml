@@ -8,15 +8,13 @@
   description: ""
   link: "/projects/prisonStationO"
 
-- image: "/assets/media/gm_blockBounce.png"
-  title: "Block Bounce"
-  description: ""
-  link: "/projects/blockBounce"
-
 - image: "/assets/media/gm_madMechs.png"
   title: "Mad Mechs"
   description: ""
   link: "/projects/madMechs"
 
-
+- image: "/assets/media/gm_robro.png"
+  title: "RoBro"
+  description: ""
+  link: "/projects/roBro"
 

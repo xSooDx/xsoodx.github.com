@@ -7,5 +7,8 @@ title: "About Me"
 
 <p>I've been gaming ever since I can remember, due to which I've developed a strong passion for science, technology, and art. I love participating in game jams and exploring various aspects of games such as design, gameplay, AI, physics, procedural generation, graphics, and shader programming. Over the past decade, I've created various projects exploring mobile apps, web apps, operating systems, design patterns, recommendation engines, machine learning and, of course, games.</p>
 
+<p>I also have an interest in art, with knowledge of graphic design and 3D modelling. Recently I have started exploring the fascinating world of CAD and 3D printing.</p>
+
 <p>Here you will find a collection of some of my work.</p>
-<p><b>Note:</b> This website is still under development and the content is incomplete!</p>
+
+<p><b>Note:</b> This website is still under construction. More content will be added over time.</p>

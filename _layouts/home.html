@@ -14,23 +14,23 @@ layout: default
       <div class = "row content" id="AboutMe">
         <div class="col">
           <h2>{{ page.title }}</h2>
-          {{ page.content }}
+            {{ page.content }}
         </div>
       </div>
       {% include links.html title="Professional Projects" %}
     
-      {% include projectSection.html title="Professional Projects" projList=site.data.professionalProjects %}
+      {% include projectSection.html title="Professional Game Projects" projList=site.data.professionalProjects %}
+
+      {% include projectSection.html title="Machine Learning Projects" projList=site.data.mlProjects %}
 
       {% include projectSection.html title="Personal Game Projects" projList=site.data.personalGameProjects1 %}
       {% include projectSection.html projList=site.data.personalGameProjects2 %}
       {% include projectSection.html projList=site.data.personalGameProjects3 %}
 
-      {% include projectSection.html title="Machine Learning Projects" projList=site.data.mlProjects %}
-
       {% include projectSection.html title="Other Projects" projList=site.data.otherProjects1 %}
       {% include projectSection.html projList=site.data.otherProjects2 %}
 
-      {% include projectSection.html title="Work Experience" projList=site.data.workX %}
+      <!-- {% include projectSection.html title="Work Experience" projList=site.data.workX %} -->
     </div>
   </section>
 

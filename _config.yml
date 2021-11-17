@@ -32,8 +32,11 @@ header_pages:
   - name: "About Me"
     href: "#AboutMe"
 
-  - name: "Professional Projects"
+  - name: "Professional Game Projects"
     href: "#ProfessionalProjects"
+
+  - name: "Machine Learning Projects"
+    href: "#MachineLearningProjects"
 
   - name: "Personal Game Projects"
     href: "#PersonalGameProjects"
