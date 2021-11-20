@@ -30,19 +30,19 @@ plugins:
 # A list of the pages to display in the navigation bar
 header_pages:
   - name: "About Me"
-    href: "#AboutMe"
+    href: "/#AboutMe"
 
   - name: "Professional Game Projects"
-    href: "#ProfessionalProjects"
+    href: "/#ProfessionalGameProjects"
 
   - name: "Machine Learning Projects"
-    href: "#MachineLearningProjects"
+    href: "/#MachineLearningProjects"
 
   - name: "Personal Game Projects"
-    href: "#PersonalGameProjects"
+    href: "/#PersonalGameProjects"
 
   - name: "Other Projects"
-    href: "#OtherProjects"
+    href: "/#OtherProjects"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
