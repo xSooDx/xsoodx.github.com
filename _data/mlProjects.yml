@@ -9,7 +9,7 @@
   link: "/projects/dqsi"
 
 - image: "/assets/media/ml_thermSr.png"
-  title: "Deep Learning Image Super Resolution for Thermal Images"
+  title: "Deep Learning Super Resolution for Thermal Images"
   description: ""
   link: "/projects/thermalSR"
 

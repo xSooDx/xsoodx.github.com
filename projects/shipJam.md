@@ -26,7 +26,7 @@ The agent was penalized for taking damage and colliding with the environment or 
 
 Out of the 3 approaches we took, mine showed the best results and was used as our final submission for the jam.
 
-While the trained AI was not hard to beat, it still posed a challenge if you attempted to be cocky against it.
+While the trained AI was not hard to beat, it still posed a challenge if you attempted to be cocky against it. (Red is Human, Blue is AI Agent)
 
 <video autoplay muted loop class="post-video">
       <source src="/assets/media/shipjam_gameplay_vid.mp4" type="video/mp4">

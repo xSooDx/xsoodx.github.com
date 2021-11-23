@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Deep Learning Image Super Resolution for Thermal Images"
+title: "Deep Learning Super Resolution for Thermal Images"
 ---
 
 In January 2018, As part of my final year dissertation at PES University, I interned at [Niramai](https://www.niramai.com/), a health tech startup that developed a novel non-invasive breast cancer screening solution using thermal imaging and machine learning.
@@ -13,7 +13,7 @@ The final neural network had 36 layers with a total of over 6,100,000 trainable 
 
 ![Deep-Learning Super-Resolution Neural Network](/assets/media/thermal_sr_model.jpg)
 
-From the images below, we can see that the model performs an accurate upscaling operation on the input images for both direct down-sampled as well as blurred down-sampled inputs. The average error in the output was 0.072 ºC which is close to the thermal resolution of the camera at 0.05 ºC. However the maximum temperature error was up to 4.0 ºC.
+From the images below, we can see that the model performs an accurate upscaling operation on the input images for both direct down-sampled as well as blurred down-sampled inputs. The average error in the output was ±0.072 ºC which is close to the thermal resolution of the camera at ±0.05 ºC. However the maximum temperature error was up to ±4.0 ºC.
 
 ![Deep-Learning Super-Resolution Results 1](/assets/media/thermal_sr_results_1.jpg)
 
