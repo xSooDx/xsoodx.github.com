@@ -337,6 +337,7 @@ legend {
 $landing-zone-height: 95vh;
 $bgColor1: #212121;
 $bgColor2: #020727;
+$loadingOverlayColor: #03011a;
 $fieryColor: #ff5500;
 $spaceyColor: #8615ff;
 
@@ -588,6 +589,24 @@ body {
 
 .store-badge > img{
   height: 52px;
+}
+
+#loading {
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  opacity: 1;
+  background-color: $loadingOverlayColor;
+  z-index: 10000;
+}
+
+#loading-image {
+  z-index: 10001;
 }
 
 @media screen and (max-aspect-ratio: 3/2) {
