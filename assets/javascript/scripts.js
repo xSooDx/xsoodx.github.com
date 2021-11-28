@@ -1,9 +1,9 @@
 
-let foo = function(){
+let hideLoadingSpinner = function(){
     setTimeout(() => {
         $("#loading").fadeOut(500);
     }, 100)
 }
 
 
-window.onload = foo;
+window.onload = hideLoadingSpinner;
