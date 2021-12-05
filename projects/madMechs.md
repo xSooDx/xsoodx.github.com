@@ -7,6 +7,10 @@ Made for the GMTK Game Jam 2020, Mad Mechs is a twin-stick top down action shoot
 
 A rouge AI has taken control of all the factories and is creating an endless stream of killer mechs. Take control of a poorly hacked mech, with heavy weapons but malfunctions sporadically, and destroy all the factories before they overwhelm you. 
 
+<video autoplay muted loop class="post-video" width="800">
+      <source src="/assets/media/madmechs_gameplay.mp4" type="video/mp4">
+</video>
+
 ##### Credits:
 - Saurabh Sood - Coding / Artist / Game Design
 - Shubham Dholu - Coding / Level Design

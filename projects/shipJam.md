@@ -34,9 +34,7 @@ While the trained AI was not hard to beat, it still posed a challenge if you att
 
 ##### Jam Submission Video
 
-<div class="yt-video-holder">
-    <iframe class="yt-video" src="https://www.youtube.com/embed/mNmoC6lY2u8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{% include ytEmbed.html link="https://www.youtube.com/embed/mNmoC6lY2u8" %}}
 
 ##### Credits:
 

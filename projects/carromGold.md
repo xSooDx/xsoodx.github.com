@@ -5,7 +5,7 @@ title: "Carrom Gold"
 
 **Carrom Gold** is a multiplayer free disc pool based tabletop board game built using the Unity Game engine.
 
-### Responsibilities
+##### Responsibilities
 - Focused development and support for internal frontend and backend SDKs used by Carrom Gold
 - Integrated payment system for third-party resellers of in-game currency into internal SDK
 - Improvements to SDKs leaderboards system

@@ -3,22 +3,29 @@ layout: default
 ---
 
 <div>
-  <div class="video-container">
-    <video autoplay muted loop id="landingReel">
+  <div class="video-container parallax-video">
+    <video autoplay muted loop id="landingReel" onloadeddata="onLandignVideoLoaded()">
       <source src="/assets/media/PortfolioReel.mp4" type="video/mp4">
     </video>
+    <div id="video-loader">
+      <div class="spinner-border text-light" role="status">
+        <span class="sr-only">Loading...</span>
+      </div>
+    </div>
   </div>
-
+  <div class="spacer layer3"></div>
   <section class="main">
     <div class="container-fluid">
-      <div class = "row content" id="AboutMe">
+      <div class="row content" id="AboutMe">
         <div class="col">
           <h2>{{ page.title }}</h2>
-            {{ page.content }}
+          <section>
+            {{ content }}
+          </section>
         </div>
       </div>
       {% include links.html title="Professional Projects" %}
-    
+
       {% include projectSection.html title="Professional Game Projects" projList=site.data.professionalProjects %}
 
       {% include projectSection.html title="Machine Learning Projects" projList=site.data.mlProjects %}
