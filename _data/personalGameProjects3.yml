@@ -1,3 +1,8 @@
+- image: "/assets/media/gm_gaia.png"
+  title: "Project: Gaia"
+  description: ""
+  link: "/projects/projectGaia"
+
 - image: "/assets/media/gm_debugio.png"
   title: "Debug.io"
   description: ""
@@ -7,11 +12,6 @@
   title: "Asteroid Belt"
   description: ""
   link: "/projects/asteroidBelt"
-
-- image: "/assets/media/gm_llaa.png"
-  title: "Looks Like an Accident"
-  description: ""
-  link: "/projects/llaa"
 
 - image: "/assets/media/gm_ricochet.jpg"
   title: "Ricochet"

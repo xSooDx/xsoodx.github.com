@@ -29,7 +29,7 @@ The player has an EMP burst ability that stuns drones to escape sticky situation
       <source src="/assets/media/gtgpu_detection_vid.mp4" type="video/mp4">
 </video>
 
-#### Full Gameplay video
+#### Gameplay video
 <div class="yt-video-holder">
     <iframe class="yt-video" src="https://www.youtube.com/embed/ifEoB8Vvqvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

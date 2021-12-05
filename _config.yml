@@ -32,18 +32,37 @@ header_pages:
   - name: "About Me"
     href: "/#AboutMe"
 
-  - name: "Professional Game Projects"
+  - name: "Professional Games"
     href: "/#ProfessionalGameProjects"
 
-  - name: "Machine Learning Projects"
+  - name: "Machine Learning"
     href: "/#MachineLearningProjects"
 
-  - name: "Personal Game Projects"
+  - name: "Personal Games"
     href: "/#PersonalGameProjects"
 
   - name: "Other Projects"
     href: "/#OtherProjects"
+  
+  - name: "Contact"
+    href: "#contactMe"
 
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Rouge Options › https://github.com/jneen/rouge#full-options
+    css_class: 'highlight'
+    #line_numbers: true # bad idea, spans don't need linenos and would inherit this option
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+      word_wrap: 1
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

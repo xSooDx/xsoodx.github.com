@@ -21,8 +21,7 @@ After, I plotted the resulting clusters to create a heat map for each cluster. T
 
 While these results heavily depend on the driver's actions in each scenario, it shows promising results as a means to crowdsource the process of auditing road quality in cities.
 
-Below is the full presentation I created for this project.
-
+##### Full Presentation
 <div class="yt-video-holder">
     <iframe class="yt-video" src="https://docs.google.com/presentation/d/e/2PACX-1vQHbeQfnXL31ENmpIoF5IKgssxJDkYRu-SaQckRn0SBr73ojk326B8StiDFVzudAzru9flm77Tx0MI9/embed?start=false&loop=false&delayms=3000" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
