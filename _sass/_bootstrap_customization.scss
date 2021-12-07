@@ -365,6 +365,7 @@ body {
   background-color: $bgColor;
   width: 100vw;
   overflow-x: hidden; /* Hide scrollbars */
+  color: $gray-400
 }
 
 .navbar-brand {
@@ -376,7 +377,7 @@ body {
 }
 
 .nav-link {
-  color: $gray-500 !important;
+  color: $gray-400 !important;
 }
 
 .nav-link:hover {

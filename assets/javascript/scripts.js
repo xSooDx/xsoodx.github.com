@@ -8,7 +8,7 @@ let hideLoadingSpinner = () => {
 let onLandignVideoLoaded = () => {
     $("#video-loader").fadeOut(200);
     setTimeout(() => {
-        $('html, body').animate({scrollTop: '+=150px'}, 1000);
+        $('html, body').animate({scrollTop: '+=250px'}, 1000);
     }, 1500);
 }
 

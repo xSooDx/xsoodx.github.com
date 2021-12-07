@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Deep Q Learning for Space Invaders"
+title: "Deep Q-Learning for Space Invaders"
 ---
 
 My friends and I created this project for the Advanced Machine Learning Course at PES University.
 
-We used OpenAI's gym environment to run an instance of Space Invaders, that provided game state and reward data, to train my model on via reinforcement learning. Using Keras, I created a convolutional neural network to use for deep Q learning and trained the model for about 6 hour.
+We used OpenAI's gym environment to run an instance of Space Invaders, that provided game state and reward data, to train my model on via reinforcement learning. Using Keras, I created a convolutional neural network to use for deep Q-learning and trained the model for about 6 hour.
 
 The network architecture was inspired by my internship where I used "Inception Modules" from Google's Inception Network for Image Classification.
 

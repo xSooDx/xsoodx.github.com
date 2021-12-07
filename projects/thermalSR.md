@@ -3,7 +3,7 @@ layout: post
 title: "Deep Learning Super Resolution for Thermal Images"
 ---
 
-In January 2018, As part of my final year dissertation at PES University, I interned at [Niramai](https://www.niramai.com/), a health tech startup that developed a novel non-invasive breast cancer screening solution using thermal imaging and machine learning.
+In January 2018, as part of my final year dissertation at PES University, I interned at [Niramai](https://www.niramai.com/), a health tech startup that developed a novel non-invasive breast cancer screening solution using thermal imaging and machine learning.
 
 As part of my internship, I was tasked with prototyping a method to enhance the resolution of images captured via a mobile compatible miniature thermal camera. My approach to this problem was to use a supervised deep-learning neural network, as we had a large dataset of images to work with. Over the course of the next 5 months, I poured over machine learning and super resolution research papers and began testing various models.
 

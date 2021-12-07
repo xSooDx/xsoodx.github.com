@@ -4,7 +4,7 @@
   link: "/projects/shipJam"
 
 - image: "/assets/media/ml_dql.png"
-  title: "Deep Q Learning for Space Invaders"
+  title: "Deep Q-Learning for Space Invaders"
   description: ""
   link: "/projects/dqsi"
 
