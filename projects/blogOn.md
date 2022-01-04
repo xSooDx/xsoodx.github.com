@@ -9,4 +9,4 @@ The engine featured a full content management system, with a creator dashboard, 
 
 We developed an API that could be used in Flask's templating code to fetch content from the database.
 
-[Github](https://github.com/xSooDx/BlogOn){:class="store-badge"}
+[![Github Link](/assets/media/github-badge.png)](https://github.com/xSooDx/BlogOn){:class="store-badge"}
