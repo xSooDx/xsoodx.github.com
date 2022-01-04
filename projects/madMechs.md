@@ -3,7 +3,7 @@ layout: post
 title: "Mad Mechs"
 ---
 
-Made for the GMTK Game Jam 2020, Mad Mechs is a twin-stick top down action shooter in the theme of "Out of Control" and inspired by games like [Alien Shooter](https://store.steampowered.com/app/33100/Alien_Shooter/) and [Alien Swarm](https://store.steampowered.com/app/630/Alien_Swarm/).
+Made for the [GMTK Game Jam 2020](https://itch.io/jam/gmtk-2020/rate/700852), Mad Mechs is a twin-stick top down action shooter in the theme of "Out of Control" and inspired by games like [Alien Shooter](https://store.steampowered.com/app/33100/Alien_Shooter/) and [Alien Swarm](https://store.steampowered.com/app/630/Alien_Swarm/).
 
 A rouge AI has taken control of all the factories and is creating an endless stream of killer mechs. Take control of a poorly hacked mech, with heavy weapons but malfunctions sporadically, and destroy all the factories before they overwhelm you. 
 
