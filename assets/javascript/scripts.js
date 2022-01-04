@@ -25,6 +25,3 @@ let onScroll = () => {
 
 window.onload = hideLoadingSpinner;
 window.onscroll = onScroll
-
-onLandignVideoLoaded()
-onLandignVideoLoaded()
