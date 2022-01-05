@@ -3,7 +3,7 @@ layout: post
 title: "Ricochet"
 ---
 
-My 12th-grade computer science project and one of my earliest game prototypes, Ricochet was a physics puzzle game I made in 2012 using C++, SDL Graphics and Box2D Physics.
+My 12th-grade computer science project and one of my earliest game prototypes, Ricochet was a physics puzzle game I made in 2014 using C++, SDL Graphics and Box2D Physics.
 
 The objective is to launch a ball into a target. As the ball travels, it draws an impassable wall along its path. The ball can ricochet off walls 4 times before it is destroyed. To win, you must use these walls to create a path through the level to reach the target.
 
