@@ -1,7 +1,10 @@
 ---
 layout: home
 title: "About Me"
-image: "/assets/media/seo-image.png"
+image: 
+  path: "/assets/media/seo-image.png"
+  height: 945
+  width: 750
 ---
 
 Greetings! I'm Saurabh Sood, a gamer, software engineer, game developer and designer from India. I have graduated with a Bachelor's in Technology from PES University and am currently working at Moonfrog Labs, a leading mobile game studio in India.
