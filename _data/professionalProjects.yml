@@ -1,3 +1,8 @@
+- image: "/assets/media/proj_parchis.webp"
+  title: "Parchis Club"
+  description: ""
+  link: "/projects/parchisClub"
+
 - image: "/assets/media/proj_carrom.webp"
   title: "Carrom Gold"
   description: ""
