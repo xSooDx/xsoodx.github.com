@@ -1,0 +1,24 @@
+- image: "/assets/media/proj_parchis.webp"
+  title: "Parchis Club"
+  description: ""
+  link: "/projects/parchisClub"
+
+- image: "/assets/media/proj_carrom.webp"
+  title: "Carrom Gold"
+  description: ""
+  link: "/projects/carromGold"
+
+- image: "/assets/media/proj_baloot.webp"
+  title: "Baloot Gold"
+  description: ""
+  link: "/projects/balootGold"
+
+- image: "/assets/media/proj_carioca.webp"
+  title: "Carioca Club"
+  description: ""
+  link: "/projects/cariocaClub"
+
+- image: "/assets/media/proj_tpg.webp"
+  title: "Teen Patti Gold"
+  description: ""
+  link: "/projects/tpg"
