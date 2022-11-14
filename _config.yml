@@ -16,11 +16,9 @@
 title: Saurabh Sood
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  Programmer • Engineer • Game Developer • Gamer
+  Software Engineer • Game Developer
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
 
 # Build settings
 plugins:
@@ -33,14 +31,17 @@ header_pages:
   - name: "About Me"
     href: "/#AboutMe"
 
-  - name: "Professional Games"
-    href: "/#ProfessionalGameProjects"
+  - name: Games @MEAE
+    href: "/#Games@MEAE-UniversityofUtah"
 
-  - name: "Machine Learning"
-    href: "/#MachineLearningProjects"
+  - name: "Professional Games"
+    href: "/#ProfessionalGames@MoonfrogLabs"
 
   - name: "Personal Games"
     href: "/#PersonalGameProjects"
+
+  - name: "Machine Learning"
+    href: "/#MachineLearningProjects"
 
   - name: "Other Projects"
     href: "/#OtherProjects"
