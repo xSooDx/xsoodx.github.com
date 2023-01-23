@@ -1,14 +1,19 @@
+- image: "/assets/media/gm_marshmallowMash.png"
+  title: "Marshmallow Mash"
+  description: "Couch competitive 4 player party game with Twitch interaction built in Unreal 5"
+  link: "/projects/marshmallowMash"
+
 - image: "/assets/media/gm_doomBook.png"
-  title: "Doom Book (VR)"
-  description: "" 
+  title: "DoomBook"
+  description: "A social commentary VR experience on DoomScrolling built in Unity with OpenXR"
   link: "/projects/doomBook"
 
 - image: "/assets/media/gm_contains.png"
   title: "'Contains' Gymnasium"
-  description: "" 
+  description: "A 'Capture and Contain' mechanics gymnasium built in Unreal 5"
   link: "/projects/containsGym"
 
 - image: "/assets/media/gm_toyPlanet.png"
   title: "Toy Planet"
-  description: ""
+  description: "A Retro 2D Arcade style physics game inspired by 'Lunar Lander' built in Unity"
   link: "/projects/toyPlanet"

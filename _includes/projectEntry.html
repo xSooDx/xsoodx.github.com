@@ -1,22 +1,27 @@
 <div class="col-sm proj-entry">
     <div class="view overlay zoom proj-img-holder">
-        {%- if include.var.link -%}
-            <a href="{{ include.var.link }}">
-        {%- else -%}
-            <a>
-        {%- endif -%}
+        <!-- {%- if include.var.link -%} -->
+        <a href="{{ include.var.link }}">
+        <!-- {%- else -%}
+        <a>
+        {%- endif -%} -->
             <img class="img-fluid proj-img" src={{ include.var.image }} />
             <div class="mask flex-center rgba-black-strong">
-                <h5 class="proj-title" >{{ include.var.title }}</h5>
+                <div>
+                    <h5 class="proj-title">{{ include.var.title }}</h5>
+                    <p class="proj-description">
+                        {%- if include.var.description -%}
+                        {{ include.var.description }}
+                        {%- endif -%}
+                    </p>
+                    <!-- <p class="proj-tags">
+                        {%- if include.var.tags -%}
+                        {{ include.var.tags }}
+                        {%- endif -%}
+                    </p> -->
+                </div>
+
             </div>
         </a>
     </div>
-    
-    <p>
-        {%- if include.var.description -%}
-            {{ include.var.description }}
-        {%- else -%}
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
-        {%- endif -%}
-    </p>
-</div>  
+</div>

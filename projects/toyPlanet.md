@@ -16,5 +16,19 @@ I created a fully procedural planet surface generator that could morph into new 
 #### Gameplay video
 {% include ytEmbed.html link="https://www.youtube.com/embed/btASiHMW4pk" %}
 
+#### Credits
+
+##### Producer
+- Ezra Botansky
+
+##### Engineers
+- Saurabh Sood
+- Yu-Heng Huang
+
+##### Artists
+- Ningxuan Yuan
+- Aolai Li
+
+
 [![itch.io Store Link](/assets/media/itch-store-badge.svg)](https://neji-yuri.itch.io/toy-planet){:class="store-badge"}
 [![Github Link](/assets/media/github-badge.png)](https://github.com/xSooDx/EAE_Rapid1_Arcade){:class="store-badge"}

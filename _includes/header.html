@@ -26,3 +26,12 @@
     <span class="sr-only">Loading...</span>
   </div>
 </div>
+
+<script>
+  $(function () {
+  $(document).scroll(function () {
+    var $nav = $(".bg-navbar");
+    $nav.toggleClass('bg-navbar-scrolled', $(this).scrollTop() > ($nav.height()*12));
+  });
+});
+</script>

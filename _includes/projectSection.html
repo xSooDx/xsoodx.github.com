@@ -1,20 +1,20 @@
 {%- if include.title -%}
-<div class = "row center section-header" id="{{include.title | replace: " ", ""}}">
+<div class="row center section-header" id="{{include.title | replace: " ", ""}}">
     <div class="spacer layer1"></div>
-    <div class="col">
+    <div class="col section-title">
         <h4 class="">{{include.title}}</h4>
     </div>
     <div class="spacer layer1 invert"></div>
 </div>
-  {%- endif -%}
-  {%- if include.subtitle -%}
-  <div class = "row center">
+{%- endif -%}
+{%- if include.subtitle -%}
+<div class="row center">
     <div class="col">
-        <p class="h5" >{{include.subtitle}}</p>
+        <p class="h5">{{include.subtitle}}</p>
     </div>
-  </div>
-  {%- endif -%}
-<div class = "row content proj-row">
+</div>
+{%- endif -%}
+<div class="row content proj-row">
     {% for proj in include.projList %}
         {% include projectEntry.html var=proj %}
     {% endfor %}
