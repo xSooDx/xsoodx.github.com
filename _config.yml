@@ -46,6 +46,9 @@ header_pages:
   - name: "Other Projects"
     href: "/#OtherProjects"
   
+header_pages_2:
+  # - name: "CV"
+    # href: "#contactMe"
   - name: "Contact"
     href: "#contactMe"
 

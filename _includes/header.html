@@ -2,14 +2,24 @@
   <div class="container-fluid">
     <a class="navbar-brand" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
-    {%- assign page_paths = site.header_pages -%}
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
       aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse " id="navbarSupportedContent">
-      <ul class="navbar-nav ml-1 mr-auto smooth-scroll">
+      {%- assign page_paths = site.header_pages -%}
+      <ul class="navbar-nav ml-2 mr-auto smooth-scroll">
         {%- for hp in page_paths -%}
+          {%- if hp.name -%}
+          <li class="nav-item">
+            <a class="nav-link" href="{{ hp.href }}">{{ hp.name | escape }}</a>
+          </li>
+          {%- endif -%}
+        {%- endfor -%}
+      </ul>
+      {%- assign page_paths_2 = site.header_pages_2 -%}
+      <ul class="navbar-nav mr-2 ml-auto smooth-scroll">
+        {%- for hp in page_paths_2 -%}
           {%- if hp.name -%}
           <li class="nav-item">
             <a class="nav-link" href="{{ hp.href }}">{{ hp.name | escape }}</a>
