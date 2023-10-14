@@ -1,10 +1,10 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-
+@charset "UTF-8";
 @import "variables";
 @import "bootstrap/bootstrap";
 // @import "syntax-highlighting";
-@import "syntax_dark";
+// @import "syntax_dark";
 @import "bootstrap-4-jekyll/bootstrap-4-jekyll";
 @import "bootstrap_customization";
