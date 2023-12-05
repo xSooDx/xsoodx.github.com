@@ -72,5 +72,5 @@ For the event I rebuilt the entire controller from scratch, improving on the pre
 ###### - [William Rockwell](https://rahlmua.itch.io/portfolio) - Engineer
 ###### - [Ziyue/Sandy Sang](https://www.sandysang.com/) - Tech Artist
 
-![Get Off My Lawn Team](/assets/media/goml_team.jpg)
+![Get Off My Lawn Team](/assets/media/goml_team.JPG)
 
