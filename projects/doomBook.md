@@ -9,10 +9,9 @@ Watch as your colorful and vibrant Pop Art style bedroom turns into a dull and d
 
 We used [DALL-E 2](https://openai.com/dall-e-2/) to create AI generated images for the social media posts, which also fits into the "Pop Art" association with the artists' use of mechanical means of reproduction or rendering techniques.
 
-{% include ytEmbed.html link="https://www.youtube.com/embed/yyFBBUUVPn8" %}
+#### Gameplay Video
 
-[![itch.io Store Link](/assets/media/itch-store-badge.svg)](https://yeiga.itch.io/doom-book){:class="store-badge"}
-[![Github Link](/assets/media/github-badge.png)](https://github.com/xSooDx/DoomScroll_SeriousGame_Rapid3){:class="store-badge"}
+{% include ytEmbed.html link="https://www.youtube.com/embed/yyFBBUUVPn8" %}
 
 #### Credits
 
@@ -28,5 +27,11 @@ We used [DALL-E 2](https://openai.com/dall-e-2/) to create AI generated images f
 
 ##### Tech Artist
 - Jiyuan (Casper) Cheng
+
+
+[![itch.io Store Link](/assets/media/itch-store-badge.svg)](https://yeiga.itch.io/doom-book){:class="store-badge"}
+[![Github Link](/assets/media/github-badge.png)](https://github.com/xSooDx/DoomScroll_SeriousGame_Rapid3){:class="store-badge"}
+
+
 
 

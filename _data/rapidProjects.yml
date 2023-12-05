@@ -8,11 +8,6 @@
   description: "A social commentary VR experience on DoomScrolling built in Unity with OpenXR"
   link: "/projects/doomBook"
 
-- image: "/assets/media/gm_contains.png"
-  title: "'Contains' Gymnasium"
-  description: "A 'Capture and Contain' mechanics gymnasium built in Unreal 5"
-  link: "/projects/containsGym"
-
 - image: "/assets/media/gm_toyPlanet.png"
   title: "Toy Planet"
   description: "A Retro 2D Arcade style physics game inspired by 'Lunar Lander' built in Unity"

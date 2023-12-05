@@ -24,14 +24,15 @@ layout: default
           </section>
         </div>
       </div>
-      {% include links.html title="Professional Projects" %}
+      {% include links.html %}
 
 
-      {% include projectSection.html title="Games @MEAE - University of Utah" projList=site.data.rapidProjects %}
+      {% include projectSection.html title="Student Games" projList=site.data.studentProjects %}
+      {% include projectSection.html projList=site.data.rapidProjects %}
 
-      {% include projectSection.html title="Professional Games @Moonfrog Labs" projList=site.data.professionalProjects %}
+      {% include projectSection.html title="Professional Games" projList=site.data.professionalProjects %}
 
-      {% include projectSection.html title="Personal Game Projects" projList=site.data.personalGameProjects1 %}
+      {% include projectSection.html title="Personal Games" projList=site.data.personalGameProjects1 %}
       {% include projectSection.html projList=site.data.personalGameProjects2 %}
       {% include projectSection.html projList=site.data.personalGameProjects3 %}
 
