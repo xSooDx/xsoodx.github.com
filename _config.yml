@@ -48,7 +48,7 @@ header_pages:
   
 header_pages_2:
   - name: "Resume"
-    href: "/pages/resume"
+    href: "/pages/Resume"
   - name: "Contact"
     href: "#contactMe"
 
