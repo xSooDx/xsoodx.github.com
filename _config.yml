@@ -31,11 +31,11 @@ header_pages:
   - name: "About Me"
     href: "/#AboutMe"
 
-  - name: Games @MEAE
-    href: "/#Games@MEAE-UniversityofUtah"
+  - name: Student Games
+    href: "/#StudentGames"
 
   - name: "Professional Games"
-    href: "/#ProfessionalGames@MoonfrogLabs"
+    href: "/#ProfessionalGames"
 
   - name: "Personal Games"
     href: "/#PersonalGameProjects"
@@ -47,8 +47,8 @@ header_pages:
     href: "/#OtherProjects"
   
 header_pages_2:
-  # - name: "CV"
-    # href: "#contactMe"
+  - name: "Resume"
+    href: "/pages/resume"
   - name: "Contact"
     href: "#contactMe"
 

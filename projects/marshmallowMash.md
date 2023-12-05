@@ -15,8 +15,7 @@ I took this as an opportunity to explore Unreal's Behavior Tree AI System, resul
 
 During the polishing phase, I created a simple shader that made the trees and grass sway in the wind, to add more life to the scene.
 
-![Wind Sway Shader](/assets/media/marshmash_shader.gif)
-
+![Wind Sway Shader](/assets/media/marshmash_shader.gif){:class="store-badge"}
 
 #### Gameplay video
 {% include ytEmbed.html link="https://www.youtube.com/embed/Wur9k-0e0s0" %}
