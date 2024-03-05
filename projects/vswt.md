@@ -13,7 +13,7 @@ Drawing on my prior experience, I served as both an engineer and producer for th
 - Collaborating closely with professors from the Department of Population Health Sciences
 - Braking down requirements and feature requests into actionable tasks
 - Delegating tasks to engineers and artists based on their skills and capabilities
-- Planning sprints, milestones and timelines for the team
+- Planning sprints, milestones and timelines for the team using Trello and Kanban boards.
 - Designing solutions to engineering problems on each project
 - Handling documentation and wrap kits for each semester
 - Optimizing of content creation and integration processes
