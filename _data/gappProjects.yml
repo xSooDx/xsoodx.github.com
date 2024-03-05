@@ -1,0 +1,9 @@
+- image: "/assets/media/proj_vswt.png"
+  title: "Virtual Social Worker Trainer"
+  description: "A software suite of VR and Mobile apps to train social workers through repeatable practice"
+  link: "/projects/vswt"
+
+- image: "/assets/media/proj_sdoh.png"
+  title: "A day of Sofia"
+  description: "A narrative VR medical game aimed at teaching current and future clinicians about the Social Determinants of Health and Cultural Humility"
+  link: "/projects/sdoh"

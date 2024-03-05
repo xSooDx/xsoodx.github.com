@@ -1,0 +1,9 @@
+- image: "/assets/media/gm_cardboard.png"
+  title: "AI Exploration"
+  description: "A collection of projects exploring various Game AI & Behavior systems"
+  link: "/projects/cardboard"
+
+- image: "/assets/media/gm_goml.png"
+  title: "Get Off My Lawn"
+  description: "A first person defense game with a unique, custom alt controller using a rocking chair, garden hose and a drink cup"
+  link: "/projects/goml"
