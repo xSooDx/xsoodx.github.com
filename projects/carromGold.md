@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Carrom Gold"
+subtitle: "Moonfrog Labs"
 ---
 
 **Carrom Gold** is a multiplayer free disc pool based tabletop board game built using the Unity Game engine.

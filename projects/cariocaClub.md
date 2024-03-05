@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Carioca Club"
+subtitle: "Moonfrog Labs"
 ---
 
 Carioca is a Rummy style card game originating from Chile. Moonfrog's **Carioca Club** is the first and only carioca game on play store. It requires luck, skills and tricks to win. 

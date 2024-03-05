@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Teen Patti Gold"
+subtitle: "Moonfrog Labs"
 ---
 
 **Teen Patti Gold**, a popular household card game of Indian origin, is one of the highest grossing games in India with over 6 million monthly active players globally. You’ll need both strategy and luck to win at this highly engaging and highly popular family card game in the Indian subcontinent

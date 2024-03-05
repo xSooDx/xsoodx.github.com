@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Parchis Club"
+subtitle: "Moonfrog Labs"
 ---
 
 **Parchis Club** is the online multiplayer board dice game Parcheesi! It is popularly known as Parchisi in Spain and Parcheesi in other places. It is very similar to Ludo board game but with interesting game rules. Each turn is played with two dice! It is said to have evolved from Indian Parcheesi board game which was popularly played among Kings.

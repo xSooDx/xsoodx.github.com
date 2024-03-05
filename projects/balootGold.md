@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Baloot Gold"
+subtitle: "Moonfrog Labs"
 ---
 
 **Baloot Gold** is a multiplayer social card game the targeting the Saudi Arabian market aimed at providing an authentic baloot gameplay experience to it's users.
