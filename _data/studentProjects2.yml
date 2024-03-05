@@ -1,6 +1,6 @@
-- image: "/assets/media/gm_cardboard.png"
-  title: "AI Exploration"
-  description: "A collection of projects exploring various Game AI & Behavior systems"
+- image: "/assets/media/gm_cardboard_wide.png"
+  title: "Cardboard Chronicles (WIP)"
+  description: "A puzzle action adventure game through an entire world made of cardboard"
   link: "/projects/cardboard"
 
 - image: "/assets/media/gm_goml.png"
